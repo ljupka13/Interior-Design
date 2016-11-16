@@ -4,7 +4,7 @@ body {
 	font-size: 24px;
 	font-color: 996600;
 }
-div {
+#livingroom {
 	width: 33.33%
 	border:2px;
 	border-color: red;
